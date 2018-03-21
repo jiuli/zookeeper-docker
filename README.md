@@ -18,6 +18,7 @@ Node count: 5
 
 另一服务器运行dubbo-admin，配置dubbo.properties文件即可（zookeeper://ip:2181）
 Prodiver和Consumer配置
+
 Prodiver配置文件：
 <?xml version="1.0" encoding="UTF-8"?>
 <beans xmlns="http://www.springframework.org/schema/beans"
